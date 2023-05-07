@@ -1,0 +1,40 @@
+body {
+  background: #7F7FD5; 
+  background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  
+  background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);
+  
+  }
+
+#Comentarios{
+  resize: none;
+  
+}
+
+#T1{
+  color: #7979ff;
+  border-style: solid;
+  border-color: pink;
+  border-radius: 5px;
+  background-color: #ffffff;
+  text-align: justify;
+
+}
+
+.BG-white{
+    background-color: rgb(255, 210, 218);
+}
+#T2{
+  color: #7979ff;
+  border-style: solid;
+  border-color: pink;
+  border-radius: 5px;
+  background-color: #ffffff;
+  text-align: justify;
+}
+
+#T3{
+  color: #7979ff;
+  border-style: solid;
+  border-color: pink;
+  background-color: #ffffff;
+}
